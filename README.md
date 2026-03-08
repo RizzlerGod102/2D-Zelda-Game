@@ -5,9 +5,9 @@ Step into the pixel world of Zelda! 🏰 Embark on an exciting adventure through
 
 ⬅️➡️⬆️⬇️ Arrow keys — move your character through the grid
 
-⏹️ Spacebar — attack enemies and clear the path
+⏹️ Spacebar — shoot  enemies and clear the path
 
-Survive the enemies and reach the doors or stairs to progress to the next level
+Survive the enemies to reach to the next level
 
 📥 How to Download & Play
 
