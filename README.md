@@ -1,7 +1,7 @@
 🕹️ About the Game
 
 
-Step into the pixel world of 2D Zelda! 🏰 Embark on an exciting adventure through dungeons, corridors, and secret passages. Face challenging enemies ⚔️ like slicers and skeletors, avoid traps 💀, and navigate through multiple levels filled with surprises. Each level is a test of skill, strategy, and timing — defeat all enemies to unlock the next stage! Collect points ⭐ as you go and try to survive as long as possible. One hit and it’s game over! 🔄 Refresh the page to restart the adventure.
+Step into the pixel world of 2D Zelda! 🏰 Embark on an exciting adventure through dungeons, corridors, and secret passages. Face challenging⚔️ slicers and skeletors, and navigate through multiple levels filled with surprises. Each level is a test of skill, strategy, and timing — defeat all enemies to move onto the next stage! Collect points ⭐ as you go and try to survive as long as possible. One hit and it’s game over! 🔄 Refresh the page to restart the adventure.
 
 🎮 How to Play
 
